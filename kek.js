@@ -35,7 +35,7 @@ console.log("2" == 2); // === сравнение по типам данных, =
 
 
 let isChecked = true;
-    isClose = true;
+let isClose = true;
 
 console.log(isChecked && isClose);       //&& - логический оператор И, возвращает тру только когда все тру. ||-оператор или.
 console.log(isChecked || isClose); //возвращает тру, если хотя бы один тру.
